@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: if76352ie-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/if76352ie-java-quarkus
